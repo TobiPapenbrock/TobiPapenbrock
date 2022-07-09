@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TobiPapenbrock
+- 👨🏻‍💻 I’m currently working as a SAP Basis Administrator and 👨🏻‍🎓 studying business informatics at FOM Stuttgart.
+- 🌱 I’m currently learning C, Python and occasionally some HTML.
+- 📫 If you want to, you can connect with me via my LinkedIn https://www.linkedin.com/in/tobias-papenbrock/
